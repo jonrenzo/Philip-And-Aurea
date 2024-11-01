@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4098f3b-31f0-4b59-8ca1-f3b886ef3270" name="Changes" comment="feat : Final FINAL Commit! HAHAHAHAHAHAH">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PhilipAndAurea.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/symfony2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SentimentDraft.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/documents/1730213321_ID_PIC_TOLEDO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/documents/1730213321_agreements_OGR.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/documents/1730213321_contract_Unti1tled.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/documents/1730213321_lease_Untitled.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/feedbackviewnegative.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/feedbackviewneutral.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/feedbackviewpositive.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatbot-deployment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/credentials.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sentiment_analysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot-deployment/vendor/google/apiclient-services" beforeDir="false" afterPath="$PROJECT_DIR$/chatbot-deployment/vendor/google/apiclient-services" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerConfigs">
+    <option name="configs">
+      <option value="$PROJECT_DIR$/chatbot-deployment/composer.json" />
+    </option>
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_COMMON_BRANCH" value="main" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jonrenzo&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/jonrenzo/PhilipAndAurea.git&quot;,
+    &quot;accountId&quot;: &quot;f48e8e2b-2712-4ac3-aae0-ad599c962f9f&quot;
+  }
+}</component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/google/apiclient" />
+      <path value="$PROJECT_DIR$/vendor/google/apiclient-services" />
+      <path value="$PROJECT_DIR$/vendor/google/auth" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/firebase/php-jwt" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/constant_time_encoding" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/chatbot-deployment/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/chatbot-deployment/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/chatbot-deployment/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/chatbot-deployment/vendor/google/auth" />
+      <path value="$PROJECT_DIR$/chatbot-deployment/vendor/google/apiclient-services" />
+      <path value="$PROJECT_DIR$/chatbot-deployment/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/chatbot-deployment/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/chatbot-deployment/vendor/composer" />
+      <path value="$PROJECT_DIR$/chatbot-deployment/vendor/firebase/php-jwt" />
+      <path value="$PROJECT_DIR$/chatbot-deployment/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/chatbot-deployment/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/chatbot-deployment/vendor/guzzlehttp/psr7" />
+    </include_path>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2moTUTfRNah5kquwu5Zsd9Gu3d8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "JavaScript Debug.feature.php.executor": "Debug",
+    "JavaScript Debug.header.php.executor": "Run",
+    "JavaScript Debug.process-reply.php.executor": "Run",
+    "PHP Script.feature.php.executor": "Debug",
+    "PHP Script.header.php.executor": "Run",
+    "PHP Script.login.php.executor": "Debug",
+    "PHP Script.process-reply.php.executor": "Run",
+    "Python.app.executor": "Run",
+    "Python.chat.executor": "Run",
+    "Python.train.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "final__branch",
+    "last_opened_file_path": "C:/Users/acer/Downloads/PhilipAndAurea/admin",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mariadb"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\acer\Downloads\PhilipAndAurea\admin" />
+      <recent name="C:\Users\acer\Downloads\PhilipAndAurea" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\acer\Downloads\PhilipAndAurea\json" />
+      <recent name="C:\Users\acer\Downloads\PhilipAndAurea\admin\assets\js" />
+      <recent name="C:\Users\acer\Downloads\PhilipAndAurea\include" />
+      <recent name="C:\Users\acer\Downloads\PhilipAndAurea\DATABASE FILE" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PhilipAndAurea" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chatbot-deployment" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chatbot-deployment/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PS-242.23339.16" />
+        <option value="bundled-php-predefined-a98d8de5180a-90914f2295cb-com.jetbrains.php.sharedIndexes-PS-242.23339.16" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4098f3b-31f0-4b59-8ca1-f3b886ef3270" name="Changes" comment="" />
+      <created>1727741945660</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727741945660</updated>
+      <workItem from="1727741946358" duration="536000" />
+      <workItem from="1727742508694" duration="3726000" />
+      <workItem from="1727746387062" duration="1529000" />
+      <workItem from="1727747984810" duration="86000" />
+      <workItem from="1727748080834" duration="240000" />
+      <workItem from="1727748333262" duration="516000" />
+      <workItem from="1727751599114" duration="1196000" />
+      <workItem from="1727760887708" duration="12000" />
+      <workItem from="1727761086281" duration="591000" />
+      <workItem from="1727787430377" duration="1911000" />
+      <workItem from="1727829552712" duration="10000" />
+      <workItem from="1727876040868" duration="2816000" />
+      <workItem from="1727916274611" duration="7706000" />
+      <workItem from="1727942935007" duration="39000" />
+      <workItem from="1728088315939" duration="109000" />
+      <workItem from="1728357759133" duration="2793000" />
+      <workItem from="1728376317856" duration="1381000" />
+      <workItem from="1728377729597" duration="881000" />
+      <workItem from="1728813399521" duration="141000" />
+      <workItem from="1728817835090" duration="959000" />
+      <workItem from="1728863248779" duration="183000" />
+      <workItem from="1728863444860" duration="52000" />
+      <workItem from="1729648029624" duration="4001000" />
+      <workItem from="1729652868800" duration="855000" />
+      <workItem from="1729655829385" duration="1087000" />
+      <workItem from="1729657028980" duration="1404000" />
+      <workItem from="1729752407750" duration="1233000" />
+      <workItem from="1729774148048" duration="361000" />
+      <workItem from="1729774513369" duration="5141000" />
+      <workItem from="1729904353531" duration="12157000" />
+      <workItem from="1729929037893" duration="192000" />
+      <workItem from="1730023080244" duration="3786000" />
+      <workItem from="1730180790111" duration="817000" />
+      <workItem from="1730210026080" duration="5133000" />
+      <workItem from="1730336722119" duration="16224000" />
+      <workItem from="1730388760751" duration="3985000" />
+      <workItem from="1730392850177" duration="5252000" />
+      <workItem from="1730424365740" duration="6158000" />
+      <workItem from="1730431072102" duration="49000" />
+      <workItem from="1730433506970" duration="711000" />
+      <workItem from="1730437726686" duration="85000" />
+      <workItem from="1730437831278" duration="325000" />
+    </task>
+    <task id="LOCAL-00001" summary="feat : on-going automated reminders feature. First Commit">
+      <option name="closed" value="true" />
+      <created>1727747198990</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727747198990</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat : added badge and validation on payment. Added notification badge on header.php for payment status">
+      <option name="closed" value="true" />
+      <created>1727922641536</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727922641536</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat : Added Document Management section on admin. TODO : Image path storing in db. Added payment history of user.">
+      <option name="closed" value="true" />
+      <created>1728377585008</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728377585008</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat : Added Chatbot on homepage using python.">
+      <option name="closed" value="true" />
+      <created>1729774566080</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729774566080</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat : Added Schedule Event option and Inbox for admin.">
+      <option name="closed" value="true" />
+      <created>1729779406032</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729779406032</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat : Final Commit! ewan bahala na HAHAHAHAH">
+      <option name="closed" value="true" />
+      <created>1730429032533</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730429032533</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="feat : on-going automated reminders feature. First Commit" />
+    <MESSAGE value="feat : added badge and validation on payment. Added notification badge on header.php for payment status" />
+    <MESSAGE value="feat : Added Document Management section on admin. TODO : Image path storing in db. Added payment history of user." />
+    <MESSAGE value="feat : Added Chatbot on homepage using python." />
+    <MESSAGE value="feat : Added Schedule Event option and Inbox for admin." />
+    <MESSAGE value="feat : Final Commit! ewan bahala na HAHAHAHAH" />
+    <MESSAGE value="feat : Final FINAL Commit! HAHAHAHAHAHAH" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat : Final FINAL Commit! HAHAHAHAHAHAH" />
+  </component>
+</project>
